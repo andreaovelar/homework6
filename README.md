@@ -17,3 +17,4 @@ not really, more features are needed to make the models significant and robust.
 * Does this model perform better or worse on out-of-sample data compared to in-sample data?
 The model performs better out of sample than in-sample. the 
 Out-of-Sample Root Mean Squared Error is (RMSE): 0.41 while the In-sample Root Mean Squared Error (RMSE): is 0.56. normally Out of sample error tend to be higher. 
+![table](https://https://github.com/andreaovelar/homework6/edit/master/vol.png "Vol forecast")
